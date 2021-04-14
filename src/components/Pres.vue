@@ -120,7 +120,7 @@ h1 {
 .text-pres{
   text-align: center;
   color:white;
-  font-size:100%;
+  font-size:90%;
 }
 .projects-title {
   color: #5D19FF;
