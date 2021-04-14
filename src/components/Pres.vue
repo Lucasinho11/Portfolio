@@ -129,9 +129,18 @@ h1 {
 }
 .svg-inline--fa{
   width: 5%;
+  display: none;
 }
 .logos{
   font-size: 75%;
+}
+.project1{
+  margin-top: 1%;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  color: black;
+
 }
 }
 
