@@ -11,8 +11,7 @@
       <button class=" animate-pulse bg-blue-500 px-5 py-2 text-lg font-semibold tracking-wider text-white rounded-full hover:bg-blue-600" style="background-color: #5D19FF">Télécharger mon CV</button>
   </a>
   <br>
-  <br>
-<div style="display:flex; justify-content: center;">
+<div style="display:flex; justify-content: center; margin-top: 1%;">
   <a href="https://github.com/Lucasinho11" style="margin-right:2%; color:#36FFB0;" class="gitin">Mon Github</a>
   <a href="https://www.linkedin.com/in/lucas-lubasinski/" style="margin-left:2%;color:#36FFB0;" class="gitin">Mon LinkedIn</a>
 </div>
